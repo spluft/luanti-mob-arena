@@ -1,0 +1,7 @@
+mob_arena.reward_emeralds (Emeralds added to bank per cleared wave) int 1 0 10
+mob_arena.waves_total (Waves per arena series (payout after the last one)) int 3 1 12
+mob_arena.max_count (Maximum mobs per wave) int 12 1 32
+mob_arena.wave_pause (Seconds between waves) int 12 5 60
+mob_arena.radius (Circle arena radius when no box is marked) int 20 6 30
+mob_arena.owner_slack (Blocks beyond boundary the owner may cross before the arena stops) int 6 2 30
+mob_arena.max_side (Maximum box side length) int 48 6 64
